@@ -1,0 +1,25 @@
+{
+  "slug": "vcv-hello-world",
+  "name": "VCV Hello World",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "VCV Hello World",
+  "author": "Stephen Kaplan",
+  "authorEmail": "stevejkaplan@gmail.com",
+  "authorUrl": "https://github.com/stephenjkaplan",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MyModule",
+      "name": "MyModule",
+      "description": "Simple sine oscillator",
+      "tags": [
+        "VCO"
+      ]
+    }
+  ]
+}
